@@ -1,0 +1,25 @@
+Juan Argentina 3 Colombia 0
+Juan Ecuador 1 Bolivia 2
+Juan Brazil 3 Chile 3
+Juan Bolivia 2 Chile 0
+Juan Uruguay 1 Brazil 0
+Juan Paraguay 1 Argentina 0
+Pepe Argentina 3 Colombia 0
+Pepe Ecuador 2 Bolivia 2
+Pepe Brazil 3 Chile 1
+Pepe Bolivia 2 Chile 2
+Pepe Uruguay 1 Brazil 1
+Pepe Paraguay 1 Argentina 3
+Romina Argentina 3 Colombia 0
+Romina Ecuador 2 Bolivia 4
+Romina Brazil 1 Chile 1
+Romina Bolivia 2 Chile 0
+Romina Uruguay 1 Brazil 0
+Romina Paraguay 1 Argentina 3
+
+
+
+
+
+
+
